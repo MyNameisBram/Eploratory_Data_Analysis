@@ -11,8 +11,6 @@ Using pandas `.describe()` method, you'll be able to easily extract the count, m
 ## Visualizing Distributions - Histograms 
 The simplest way to understand the distribution of a dataset is to visualize it. Pandas has an built-in `.hist()` method. 
 
-- insert picture 
-
 ## Visualizing Distributions - Kernel Density Estimation (KDE) plots
 KDE plot is a non-parametric way of estimating the probability density function (PDF) of a random variable. It's normally overlaid with a histogram to create a line that visualizes the probability mass for each value in the histogram.
 
